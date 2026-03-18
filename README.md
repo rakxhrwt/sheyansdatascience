@@ -1,73 +1,74 @@
-<!-- Animated Header -->
-
-<h1 align="center">🚀 Rakesh Rawat</h1>
-<h3 align="center">⚡ Turning Data into Intelligence | Future AI Engineer</h3>
+<!-- 🔥 ULTRA PREMIUM HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Welcome%20to%20My%20World&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=RAKESH%20RAWAT&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
+</p>
+
+<h3 align="center">⚡ Data Scientist in Progress | 🤖 ML Engineer | 🧠 Gen AI Explorer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+AI+Step+by+Step...;Data+is+my+Playground;Future+AI+Engineer🚀;Consistency+%3D+Success🔥" />
 </p>
 
 ---
 
-## 🧠 Who Am I?
+## 🧬 Developer DNA
 
-```yaml
-Name: Rakesh Rawat
-Role: Aspiring Data Scientist | ML Engineer | Gen AI Explorer
-Education: B.Tech (3rd Year)
-Focus: Data Science + Machine Learning + Generative AI
-Goal: Build real-world AI systems 🚀
+```diff
++ Name        : Rakesh Rawat
++ Role        : Aspiring Data Scientist
++ Focus       : Machine Learning | Generative AI
++ Strength    : Consistency + Problem Solving
++ Mission     : Build impactful AI systems 🚀
 ```
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚙️ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NumPy-Numerical-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ML-Learning-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GenAI-Explorer-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-Data%20Wizard-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy-Array%20Magic-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ML-Learner-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GenAI-Future-purple?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Highlight Projects
 
-✨ **Airbnb Data Analysis**
+🧠 **Fake News Detection (Multimodal)**
 
-* Cleaned messy data & extracted insights 📊
-* Explored pricing patterns & trends
+> BERT + ResNet model combining text & image intelligence
 
-🧠 **Fake News Detection (Multimodal)** *(Ongoing)*
+📊 **Airbnb Data Analysis**
 
-* BERT + ResNet model
-* Combining text + image intelligence
+> Extracted insights from raw data using EDA techniques
 
 ---
 
-## 📊 GitHub Power Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakeshrawat12&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshrawat12&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rakeshrawat12&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshrawat12&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🧬 Contribution DNA
+## 🧠 AI Journey
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakeshrawat12&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakeshrawat12&theme=tokyo-night" />
 </p>
 
 ---
 
-## 🧭 Current Mission
+## 🎯 Current Focus
 
 * 🔥 Mastering Machine Learning
 * 🤖 Exploring Generative AI
@@ -75,22 +76,22 @@ Goal: Build real-world AI systems 🚀
 
 ---
 
-## 🌐 Connect Zone
+## 🌍 Connect
 
 <p align="center">
 <a href="https://github.com/rakeshrawat12">
-<img src="https://img.shields.io/badge/GitHub-Connect-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Follow%20Me-black?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
 ---
 
-## 💭 Philosophy
+## 💭 Quote
 
-> ⚡ “From writing code to building intelligence — that's the journey.”
+> ⚡ “Code + Data = Intelligence | Consistency = Success”
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>

@@ -17,3 +17,8 @@ def digit_sum(a: int):
 b = int(input())
 print(digit_sum(b))
 
+
+
+#3 count 
+
+

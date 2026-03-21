@@ -24,4 +24,10 @@ def missingNumber(lst):
     
     return total_sum - actual_sum
 
+
+
 print(missingNumber([1, 2, 3, 5, 4]))
+
+
+
+
